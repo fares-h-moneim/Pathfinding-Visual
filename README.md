@@ -10,4 +10,4 @@ For this project you will only need to have any Python IDE.
 <h2>You just add an image and its map to the folder:</h2>
 
 <p>This is a demo of the UI.</p>
-<img src="[https://github.com/fares-h-moneim/Animated-Sorting-App/blob/main/Animated%20Sorting%20App.png](https://github.com/fares-h-moneim/Pathfinding-Visual/blob/main/demoo.png)"></img>
+<img src="https://github.com/fares-h-moneim/Pathfinding-Visual/blob/main/demoo.png"></img>
